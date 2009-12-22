@@ -1,0 +1,9 @@
+h1. README
+
+Take the following scripts and save them as executable Apple Script (@.scpt@) to 
+
+bc. ~/Library/Application Support/Quicksilver/Actions
+
+You might have to create the directory first.
+
+Relaunch Quicksilver (Command-Control-Q) to reload the actions.
